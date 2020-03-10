@@ -28,4 +28,7 @@ h4 {
 
 .italics {
     font-style: italic;
+  
+body {
+  font-size: 40px;
 }
